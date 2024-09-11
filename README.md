@@ -7,7 +7,8 @@ In a tech-driven world, the importance of skilled employees cannot be overstated
 They have provided you with the following class diagram that represents their current workforce.
 
 ![Classy Coders Inc Class Diagram](./assets/EmployeeClassDiagram.png)
-
+npm install 
+npm test
 ## `Employee`
 
 Create a class `Employee` that has the following properties and methods:

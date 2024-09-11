@@ -83,6 +83,7 @@ describe("SalesPerson Tests", () => {
 
 describe("Employee Static Properties and Methods Tests", () => {
     test("getEmployees returns array of all employees", () => {
+        // console.log("=====================",Employees.getEmployees());
         expect(Employees.getEmployees().length).toBe(5)
     })
 

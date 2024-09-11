@@ -6,10 +6,6 @@ const { SoftwareEngineer } = require("./classes/SoftwareEngineer")
 // Run and debug your code here
 
 
-
-
-
-
 module.exports = {
     Employees,
     Manager,
